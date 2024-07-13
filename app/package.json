@@ -1,0 +1,29 @@
+{
+  "name": "mi-app-fitness",
+  "version": "1.0.0",
+  "description": "Una aplicación móvil para rastrear actividades de fitness, establecer metas y monitorear el progreso.",
+  "main": "app/src/App.js",
+  "scripts": {
+    "start": "node app/src/App.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12",
+    "react": "^17.0.2",
+    "react-native": "^0.66.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/runtime": "^7.15.4",
+    "babel-jest": "^27.3.1",
+    "jest": "^27.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT"
+}

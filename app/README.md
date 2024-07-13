@@ -1,6 +1,6 @@
-# FitTrack - App Fitness - Aplicación móvil
+# Mi App Fitness
 
-Este proyecto es una aplicación móvil para rastrear actividades de fitness, establecer metas y monitorear el progreso. Está desarrollada utilizando el stack MERN (MongoDB, Express, React, Node) y React Native.
+Este proyecto es una aplicación móvil para rastrear actividades de fitness, establecer metas y monitorear el progreso.
 
 ## Estructura del proyecto
 
@@ -30,4 +30,4 @@ En la raíz del proyecto:
 - `.gitignore`: Este archivo especifica los archivos y carpetas que deben ser ignorados por Git durante el control de versiones.
 ```
 
-Recuerda que puedes agregar más detalles y secciones a este archivo según tus necesidades.
+Recuerda que puedes agregar más detalles y contenido a los archivos README.md según sea necesario.

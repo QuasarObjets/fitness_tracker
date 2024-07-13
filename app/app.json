@@ -1,0 +1,23 @@
+// File: /mi-app-fitness/app/app.json
+
+{
+  "name": "MiAppFitness",
+  "version": "1.0.0",
+  "displayName": "Mi App Fitness",
+  "expo": {
+    "sdkVersion": "42.0.0",
+    "platforms": ["ios", "android"],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.miappfitness"
+    },
+    "ios": {
+      "bundleIdentifier": "com.miappfitness"
+    }
+  }
+}
