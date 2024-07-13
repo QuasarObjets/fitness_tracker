@@ -1,6 +1,6 @@
 # FitTrack - Seguimiento de Actividad Física - Aplicación Web/Móvil
 
-Este proyecto es una aplicación móvil y web para rastrear actividades de fitness, establecer metas y monitorear el progreso. La aplicación se llama Fitness Tracker y está desarrollada utilizando el stack MERN (MongoDB, Express, React y Node.js) para la aplicación web, y React Native para la aplicación móvil.
+Este proyecto es una aplicación móvil y web para rastrear actividades de fitness, establecer metas y monitorear el progreso. La aplicación se llama Fitness Tracker y está desarrollada utilizando el stack MERN (MongoDB, Express, React y Node.js) para la aplicación web, y React Native para la aplicación móvil. 
 
 ## Estructura del proyecto
 
